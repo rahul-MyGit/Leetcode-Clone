@@ -1,4 +1,4 @@
-## Going To Use a NEXT.js here (UNFINISHED)
+## Going To Use a nginx here (UNFINISHED)
 Build an end to end leetcode clone
 
 - Users should be able to sign in
